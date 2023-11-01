@@ -1,10 +1,21 @@
 import React, { Component} from 'react'
 import './Calculator.css'
+import Button from '../components/Button'
 
 export default class Calculator extends Component{
     render(){
         return(
-            <div className='calculator'></div>
+            <div className='calculator'>
+            <Button label="AC"></Button>
+            <Button label="AC"></Button>
+            <Button label="AC"></Button>
+            <Button label="AC"></Button>
+            <Button label="AC"></Button>
+            <Button label="AC"></Button>
+            <Button label="AC"></Button>
+            <Button label="AC"></Button>
+            
+            </div>
         )
     }
 }
