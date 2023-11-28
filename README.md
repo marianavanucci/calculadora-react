@@ -2,7 +2,5 @@
 
 This project was designed using React.
 
-hi! 
-
 
 
